@@ -1,5 +1,3 @@
-/* Default Light Mode */
-
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -44,7 +42,7 @@ p {
 }
 
 #hints {
-    max-width: 800px;  /* Set max-width for the whole hint container */
+    max-width: 800px;
     margin: 20px auto;
     padding: 10px;
     text-align: left;
@@ -67,11 +65,11 @@ p {
 }
 
 .hint-block {
-    width: 100%;  /* Full width of the container */
-    max-width: 800px;  /* Set a maximum width */
-    margin: 10px auto;  /* Center align and add space between hints */
+    width: 100%;
+    max-width: 800px;
+    margin: 10px auto;
     padding: 10px;
-    border: 1px solid #ddd;  /* Border for visual separation */
+    border: 1px solid #ddd;
     border-radius: 5px;
     background-color: #f9f9f9;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -103,51 +101,40 @@ p {
     margin: 0 auto;
 }
 
-
-/* Dark Mode Style */
 body.dark-mode {
-    background-color: #121212;  /* Dark background */
-    color: #f1f1f1;  /* Light text */
+    background-color: #121212;
+    color: #f1f1f1;
 }
 
-/* Dark mode for the entire container */
 body.dark-mode .container,
 body.dark-mode #hints,
 body.dark-mode .hint-block {
-    background-color: #222;  /* Dark background for containers */
-    color: #ccc;  /* Lighter text inside containers */
-    border-color: #444;  /* Dark border */
+    background-color: #222;
+    color: #ccc;
+    border-color: #444;
 }
 
 body.dark-mode #guessInput {
-    background-color: #333; /* Dark background for input */
-    color: #f1f1f1; /* Light text in input */
+    background-color: #333;
+    color: #f1f1f1;
 }
 
-/* Button styles for dark mode */
 body.dark-mode button {
-    background-color: #333; /* Dark background for buttons */
-    color: #f1f1f1; /* Light text */
+    background-color: #333;
+    color: #f1f1f1;
 }
 
 body.dark-mode button:hover {
-    background-color: #555; /* Lighter background on hover */
+    background-color: #555;
 }
 
-/* Feedback text in dark mode */
 body.dark-mode #feedback {
-    color: #ff8c00; /* Light orange for feedback */
+    color: #ff8c00;
 }
 
-/* Additional element styles */
 body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
-    color: #fff; /* Light titles in dark mode */
+    color: #fff;
 }
-
-
-
-
-/*LANG*/
 
 .language-selector {
 	position: fixed;
@@ -174,9 +161,9 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
 }
 
 .dropdown img {
-	width: 20px; /* Flag size */
+	width: 20px;
 	height: auto;
-	margin-right: 8px; /* Space between flag and text */
+	margin-right: 8px;
 }
 
 .dropdown-content {
