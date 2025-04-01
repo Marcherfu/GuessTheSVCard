@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Shadowverse Card</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <div class="container">
+		<button id="darkModeToggle">Toggle Dark Mode</button>
+		<p>For any inquiries, contact beermoney1185 on Discord.</p>
+        <h1>Guess the Shadowverse Card !</h1>
+        <p>Enter your guess below:</p>
+        <input type="text" id="guessInput" placeholder="Type your guess...">
+        <button id="submitBtn" onclick="checkGuess()">Submit</button>
+        <p id="feedback"></p>
+        <p id="attempts">Attempts left: 5</p>
+        <div id="hints"></div>
+    </div>
+
+
+<div class="language-selector">
+    <div class="dropdown">
+        <div class="selected">
+            <img src="../flags/en.png" alt="English"> English
+        </div>
+        <div class="dropdown-content">
+            <a href="../index.html" title="English">
+                <img src="../flags/en.png" alt="English"> English
+            </a>
+            <a href="../FR/index.html" title="Français">
+                <img src="../flags/fr.png" alt="Français"> Français
+            </a>
+            <a href="../DE/index.html" title="Deutsch">
+                <img src="../flags/de.png" alt="Deutsch"> Deutsch
+            </a>
+            <a href="../IT/index.html" title="Italiano">
+                <img src="../flags/it.png" alt="Italiano"> Italiano
+            </a>
+            <a href="../ES/index.html" title="Español">
+                <img src="../flags/es.png" alt="Español"> Español
+            </a>
+            <a href="../JA/index.html" title="日本語">
+                <img src="../flags/ja.png" alt="日本語"> 日本語
+            </a>
+            <a href="../KO/index.html" title="한국어">
+                <img src="../flags/ko.png" alt="한국어"> 한국어
+            </a>
+            <a href="../ZH-TW/index.html" title="繁體中文">
+                <img src="../flags/zh-tw.png" alt="繁體中文"> 繁體中文
+            </a>
+        </div>
+    </div>
+</div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

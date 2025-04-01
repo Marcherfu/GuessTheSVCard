@@ -1,0 +1,206 @@
+/* Default Light Mode */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+p {
+    font-size: 18px;
+}
+
+#hints {
+    max-width: 800px;  /* Set max-width for the whole hint container */
+    margin: 20px auto;
+    padding: 10px;
+    text-align: left;
+}
+
+#hints li {
+    background: #e3f2fd;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+#hints p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.hint-block ul {
+    padding-left: 20px;
+}
+
+.hint-block {
+    width: 100%;  /* Full width of the container */
+    max-width: 800px;  /* Set a maximum width */
+    margin: 10px auto;  /* Center align and add space between hints */
+    padding: 10px;
+    border: 1px solid #ddd;  /* Border for visual separation */
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.hint-block h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.hint-block p {
+    margin: 5px 0;
+}
+
+#guessInput {
+    width: 100%;
+    max-width: 600px;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+/* Dark Mode Style */
+body.dark-mode {
+    background-color: #121212;  /* Dark background */
+    color: #f1f1f1;  /* Light text */
+}
+
+/* Dark mode for the entire container */
+body.dark-mode .container,
+body.dark-mode #hints,
+body.dark-mode .hint-block {
+    background-color: #222;  /* Dark background for containers */
+    color: #ccc;  /* Lighter text inside containers */
+    border-color: #444;  /* Dark border */
+}
+
+body.dark-mode #guessInput {
+    background-color: #333; /* Dark background for input */
+    color: #f1f1f1; /* Light text in input */
+}
+
+/* Button styles for dark mode */
+body.dark-mode button {
+    background-color: #333; /* Dark background for buttons */
+    color: #f1f1f1; /* Light text */
+}
+
+body.dark-mode button:hover {
+    background-color: #555; /* Lighter background on hover */
+}
+
+/* Feedback text in dark mode */
+body.dark-mode #feedback {
+    color: #ff8c00; /* Light orange for feedback */
+}
+
+/* Additional element styles */
+body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
+    color: #fff; /* Light titles in dark mode */
+}
+
+
+
+
+/*LANG*/
+
+.language-selector {
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	z-index: 1000;
+	cursor: pointer;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown .selected {
+	background-color: #333;
+	color: white;
+	padding: 8px 12px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+}
+
+.dropdown img {
+	width: 20px; /* Flag size */
+	height: auto;
+	margin-right: 8px; /* Space between flag and text */
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #333;
+	min-width: 180px;
+	box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+	z-index: 1;
+	border-radius: 5px;
+}
+
+.dropdown-content a {
+	color: white;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+}
+
+.dropdown-content a:hover {
+	background-color: #575757;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
