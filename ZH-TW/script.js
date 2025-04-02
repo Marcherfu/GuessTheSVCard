@@ -7,9 +7,16 @@ fetch('cardsZH-TW.json')
     .then(data => {
         cards = data;
 
-        const today = new Date().toISOString().slice(0, 10);
-        const dailySeed = hashString(today);
-        secretCard = cards[dailySeed % cards.length];
+        function randomSeed(seed) {
+            let x = Math.sin(seed) * 10000; 
+            return x - Math.floor(x);
+        }
+
+        const now = new Date();
+        const dateSeed = parseInt(now.getFullYear().toString() + (now.getMonth() + 1).toString().padStart(2, '0') + now.getDate().toString().padStart(2, '0'));
+        const randomIndex = Math.floor(randomSeed(dateSeed) * cards.length);
+
+        secretCard = cards[randomIndex];
     })
     .catch(error => console.error("Error loading card data:", error));
 
@@ -18,14 +25,6 @@ document.getElementById("guessInput").addEventListener("keypress", function(even
         checkGuess();
     }
 });
-
-function hashString(str) {
-    let hash = 0;
-    for (let i = 0; i < str.length; i++) {
-        hash = (hash << 5) - hash + str.charCodeAt(i);
-    }
-    return hash;
-}
 
 function checkGuess() {
     let userGuess = document.getElementById("guessInput").value.trim();
