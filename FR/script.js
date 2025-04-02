@@ -27,6 +27,7 @@ document.getElementById("guessInput").addEventListener("keypress", function(even
 });
 
 function checkGuess() {
+	const follower = "Combattant";
     let userGuess = document.getElementById("guessInput").value.trim();
     let feedback = document.getElementById("feedback");
     let attemptsDisplay = document.getElementById("attempts");
@@ -65,7 +66,7 @@ function checkGuess() {
 	let hpComparison = "";
 	let evolvedAtkComparison = "";
 	let evolvedHpComparison = "";
-    if (guessedCard.Type == "Follower" && secretCard.Type == "Follower") {
+    if (guessedCard.Type == follower && secretCard.Type == follower) {
 		atkComparison = compareNumbers(guessedCard.ATK, secretCard.ATK, "Attack");
 		hpComparison = compareNumbers(guessedCard.HP, secretCard.HP, "Health");
 		evolvedAtkComparison = compareNumbers(guessedCard.EvolvedATK, secretCard.EvolvedATK, "Evolved Attack");
@@ -88,7 +89,7 @@ function checkGuess() {
 		}
 	}
 	hintText = hintText + `<p>Cost: ${costComparison}</p>`;
-    if (guessedCard.Type == "Follower" && secretCard.Type == "Follower") {
+    if (guessedCard.Type == follower && secretCard.Type == follower) {
 	  hintText = hintText + `<p>Attack: ${atkComparison}</p>
 							 <p>Health: ${hpComparison}</p>
 							 <p>Evolved Attack: ${evolvedAtkComparison}</p>
