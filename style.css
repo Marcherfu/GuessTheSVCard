@@ -191,3 +191,125 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
 .dropdown:hover .dropdown-content {
 	display: block;
 }
+/* =========================
+   Game Mode Selector
+   ========================= */
+
+.mode-selector {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0 15px;
+}
+
+.mode-btn {
+    background-color: #777;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.mode-btn:hover {
+    background-color: #555;
+}
+
+.mode-btn.active {
+    background-color: #007bff;
+}
+
+.mode-btn.active:hover {
+    background-color: #0056b3;
+}
+
+
+/* =========================
+   Guess Input / Autocomplete
+   ========================= */
+
+.guess-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+}
+
+#guessInput {
+    box-sizing: border-box;
+}
+
+#suggestions {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    z-index: 100;
+    text-align: left;
+    overflow: hidden;
+}
+
+.suggestion-item {
+    padding: 10px 12px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.suggestion-item:hover,
+.suggestion-item.selected-suggestion {
+    background-color: #e3f2fd;
+}
+
+
+/* =========================
+   Next Card Button
+   ========================= */
+
+#nextCardBtn {
+    margin-top: 10px;
+    background-color: #28a745;
+}
+
+#nextCardBtn:hover {
+    background-color: #218838;
+}
+
+
+/* =========================
+   Dark Mode
+   ========================= */
+
+body.dark-mode #suggestions {
+    background-color: #333;
+    border-color: #555;
+}
+
+body.dark-mode .suggestion-item {
+    color: #f1f1f1;
+}
+
+body.dark-mode .suggestion-item:hover,
+body.dark-mode .suggestion-item.selected-suggestion {
+    background-color: #555;
+}
+
+body.dark-mode .mode-btn {
+    background-color: #444;
+}
+
+body.dark-mode .mode-btn.active {
+    background-color: #007bff;
+}
+
+body.dark-mode #nextCardBtn {
+    background-color: #218838;
+}
+
+#streak {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0;
+}

@@ -12387,7 +12387,7 @@
 		"ID": 105312010,
 		"Name": "마녀의 가마솥",
 		"FirstPrint": {"Expansion": "Wonderland Dreams", "ReleaseDate": "2017-06-29"},
-		"SecondPrint": {"Expansion": "Rebirth Of Glory", "ReleaseDate": "2019-06-27"},
+		"SecondPrint": {"Expansion": "Rebirth of Glory", "ReleaseDate": "2019-06-27"},
 		
 		"Type": "마법진",
 		"Craft": "위치",
@@ -33930,9 +33930,9 @@
 		"Trait": "병사",
 		"Cost": 2,
 		"ATK": 2,
-		"HP": 1,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 3,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "브론즈 레어", "ID": 1}
 	},	
 	{	
@@ -36312,7 +36312,7 @@
 		"Type": "추종자",
 		"Craft": "드래곤",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
 		"EvolvedATK": 4,
@@ -36521,10 +36521,10 @@
 		"Craft": "네크로맨서",
 		"Trait": "-",
 		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"ATK": 6,
+		"HP": 6,
+		"EvolvedATK": 8,
+		"EvolvedHP": 8,
 		"Rarity": {"Name": "레전드", "ID": 4}
 	},	
 	{	
@@ -36779,7 +36779,7 @@
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 2,
-		"EvolvedATK": 2,
+		"EvolvedATK": 3,
 		"EvolvedHP": 4,
 		"Rarity": {"Name": "브론즈 레어", "ID": 1}
 	},	
@@ -36872,11 +36872,11 @@
 		"Type": "추종자",
 		"Craft": "비숍",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
-		"HP": 3,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 5,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "골드 레어", "ID": 3}
 	},	
 	{	
@@ -37128,10 +37128,10 @@
 		"Type": "추종자",
 		"Craft": "네메시스",
 		"Trait": "-",
-		"Cost": 2,
-		"ATK": 2,
+		"Cost": 1,
+		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
+		"EvolvedATK": 2,
 		"EvolvedHP": 2,
 		"Rarity": {"Name": "레전드", "ID": 4}
 	},	
@@ -37259,8 +37259,8 @@
 		"Cost": 1,
 		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
-		"EvolvedHP": 3,
+		"EvolvedATK": 2,
+		"EvolvedHP": 2,
 		"Rarity": {"Name": "골드 레어", "ID": 3}
 	},	
 	{	
@@ -37736,7 +37736,7 @@
 		"Type": "추종자",
 		"Craft": "로얄",
 		"Trait": "병사",
-		"Cost": 7,
+		"Cost": 6,
 		"ATK": 5,
 		"HP": 9,
 		"EvolvedATK": 7,
@@ -41288,11 +41288,11 @@
 		"Type": "추종자",
 		"Craft": "로얄",
 		"Trait": "지휘관",
-		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"Cost": 6,
+		"ATK": 4,
+		"HP": 4,
+		"EvolvedATK": 6,
+		"EvolvedHP": 6,
 		"Rarity": {"Name": "골드 레어", "ID": 3}
 	},	
 	{	
@@ -61665,13 +61665,13 @@
 	},	
 	{	
 		"ID": 132311030,
-		"Name": "치밀한 점술사",
+		"Name": "레빌의 수사관",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "추종자",
 		"Craft": "위치",
-		"Trait": "기계",
+		"Trait": "-",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 2,
@@ -61681,13 +61681,13 @@
 	},	
 	{	
 		"ID": 132311040,
-		"Name": "레빌의 수사관",
+		"Name": "순수한 마음의 기계",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "추종자",
 		"Craft": "위치",
-		"Trait": "-",
+		"Trait": "기계&자연",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -61697,29 +61697,29 @@
 	},	
 	{	
 		"ID": 132321020,
-		"Name": "순수한 마음의 기계",
+		"Name": "지평의 원소마법사",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "추종자",
 		"Craft": "위치",
-		"Trait": "기계&자연",
+		"Trait": "자연",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 3,
 		"EvolvedATK": 3,
 		"EvolvedHP": 5,
-		"Rarity": {"Name": "브론즈 레어", "ID": 1}
+		"Rarity": {"Name": "실버 레어", "ID": 2}
 	},	
 	{	
 		"ID": 132324010,
-		"Name": "데이터 소서러",
+		"Name": "마음의 교신",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
-		"Type": "추종자",
+		"Type": "주문",
 		"Craft": "위치",
-		"Trait": "기계",
+		"Trait": "기계&자연",
 		"Cost": 3,
 		"ATK": 0,
 		"HP": 0,
@@ -61729,38 +61729,6 @@
 	},	
 	{	
 		"ID": 132331010,
-		"Name": "지평의 원소마법사",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "추종자",
-		"Craft": "위치",
-		"Trait": "자연",
-		"Cost": 3,
-		"ATK": 2,
-		"HP": 2,
-		"EvolvedATK": 4,
-		"EvolvedHP": 4,
-		"Rarity": {"Name": "실버 레어", "ID": 2}
-	},	
-	{	
-		"ID": 132531010,
-		"Name": "마음의 교신",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "주문",
-		"Craft": "위치",
-		"Trait": "기계&자연",
-		"Cost": 2,
-		"ATK": 1,
-		"HP": 1,
-		"EvolvedATK": 3,
-		"EvolvedHP": 3,
-		"Rarity": {"Name": "실버 레어", "ID": 2}
-	},	
-	{	
-		"ID": 132311020,
 		"Name": "우애의 꽃 엘레노아",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -61768,12 +61736,44 @@
 		"Type": "추종자",
 		"Craft": "위치",
 		"Trait": "-",
-		"Cost": 2,
+		"Cost": 3,
 		"ATK": 2,
 		"HP": 2,
 		"EvolvedATK": 4,
 		"EvolvedHP": 4,
 		"Rarity": {"Name": "골드 레어", "ID": 3}
+	},	
+	{	
+		"ID": 132531010,
+		"Name": "금절의 빛 니콜라",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "추종자",
+		"Craft": "네크로맨서",
+		"Trait": "기계",
+		"Cost": 2,
+		"ATK": 1,
+		"HP": 1,
+		"EvolvedATK": 3,
+		"EvolvedHP": 3,
+		"Rarity": {"Name": "골드 레어", "ID": 3}
+	},	
+	{	
+		"ID": 132311020,
+		"Name": "치밀한 점술사",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "추종자",
+		"Craft": "위치",
+		"Trait": "기계",
+		"Cost": 2,
+		"ATK": 2,
+		"HP": 2,
+		"EvolvedATK": 4,
+		"EvolvedHP": 4,
+		"Rarity": {"Name": "브론즈 레어", "ID": 1}
 	},	
 	{	
 		"ID": 132331020,
@@ -62017,6 +62017,22 @@
 	},	
 	{	
 		"ID": 132511010,
+		"Name": "스컬 드론",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "추종자",
+		"Craft": "네크로맨서",
+		"Trait": "기계",
+		"Cost": 4,
+		"ATK": 3,
+		"HP": 3,
+		"EvolvedATK": 5,
+		"EvolvedHP": 5,
+		"Rarity": {"Name": "브론즈 레어", "ID": 1}
+	},	
+	{	
+		"ID": 132434010,
 		"Name": "폭위의 극복",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -62024,15 +62040,15 @@
 		"Type": "주문",
 		"Craft": "드래곤",
 		"Trait": "-",
-		"Cost": 4,
-		"ATK": 3,
-		"HP": 3,
-		"EvolvedATK": 5,
-		"EvolvedHP": 5,
+		"Cost": 3,
+		"ATK": 0,
+		"HP": 0,
+		"EvolvedATK": 0,
+		"EvolvedHP": 0,
 		"Rarity": {"Name": "골드 레어", "ID": 3}
 	},	
 	{	
-		"ID": 132434010,
+		"ID": 132441010,
 		"Name": "크리스탈 드래고뉴트",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -62040,22 +62056,6 @@
 		"Type": "추종자",
 		"Craft": "드래곤",
 		"Trait": "-",
-		"Cost": 3,
-		"ATK": 0,
-		"HP": 0,
-		"EvolvedATK": 0,
-		"EvolvedHP": 0,
-		"Rarity": {"Name": "레전드", "ID": 4}
-	},	
-	{	
-		"ID": 132441010,
-		"Name": "주술의 섬영 바이디",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "추종자",
-		"Craft": "드래곤",
-		"Trait": "자연",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
@@ -62065,13 +62065,13 @@
 	},	
 	{	
 		"ID": 132441020,
-		"Name": "치명의 용기병 로라",
+		"Name": "주술의 섬영 바이디",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "추종자",
 		"Craft": "드래곤",
-		"Trait": "기계",
+		"Trait": "자연",
 		"Cost": 4,
 		"ATK": 4,
 		"HP": 4,
@@ -62081,13 +62081,13 @@
 	},	
 	{	
 		"ID": 132441030,
-		"Name": "비상하는 용염 드라크",
+		"Name": "치명의 용기병 로라",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "추종자",
 		"Craft": "드래곤",
-		"Trait": "-",
+		"Trait": "기계",
 		"Cost": 7,
 		"ATK": 4,
 		"HP": 6,
@@ -62097,19 +62097,19 @@
 	},	
 	{	
 		"ID": 132441040,
-		"Name": "스컬 드론",
+		"Name": "비상하는 용염 드라크",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "추종자",
-		"Craft": "네크로맨서",
-		"Trait": "기계",
+		"Craft": "드래곤",
+		"Trait": "-",
 		"Cost": 9,
 		"ATK": 6,
 		"HP": 4,
 		"EvolvedATK": 8,
 		"EvolvedHP": 6,
-		"Rarity": {"Name": "브론즈 레어", "ID": 1}
+		"Rarity": {"Name": "레전드", "ID": 4}
 	},	
 	{	
 		"ID": 132511020,
@@ -62209,7 +62209,7 @@
 	},	
 	{	
 		"ID": 132531020,
-		"Name": "금절의 빛 니콜라",
+		"Name": "신문물의 영혼 채굴꾼",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62225,13 +62225,13 @@
 	},	
 	{	
 		"ID": 132534010,
-		"Name": "신문물의 영혼 채굴꾼",
+		"Name": "유대의 협심",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
-		"Type": "추종자",
+		"Type": "주문",
 		"Craft": "네크로맨서",
-		"Trait": "기계",
+		"Trait": "-",
 		"Cost": 1,
 		"ATK": 0,
 		"HP": 0,
@@ -62241,22 +62241,6 @@
 	},	
 	{	
 		"ID": 132541010,
-		"Name": "유대의 협심",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "주문",
-		"Craft": "네크로맨서",
-		"Trait": "-",
-		"Cost": 7,
-		"ATK": 7,
-		"HP": 4,
-		"EvolvedATK": 9,
-		"EvolvedHP": 6,
-		"Rarity": {"Name": "골드 레어", "ID": 3}
-	},	
-	{	
-		"ID": 132541020,
 		"Name": "아툼",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -62264,6 +62248,22 @@
 		"Type": "추종자",
 		"Craft": "네크로맨서",
 		"Trait": "-",
+		"Cost": 7,
+		"ATK": 7,
+		"HP": 4,
+		"EvolvedATK": 9,
+		"EvolvedHP": 6,
+		"Rarity": {"Name": "레전드", "ID": 4}
+	},	
+	{	
+		"ID": 132541020,
+		"Name": "보랏빛의 창조자 엔네아",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "추종자",
+		"Craft": "네크로맨서",
+		"Trait": "기계",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 1,
@@ -62273,12 +62273,12 @@
 	},	
 	{	
 		"ID": 132641020,
-		"Name": "보랏빛의 창조자 엔네아",
+		"Name": "붉은빛의 도전자 모노",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "추종자",
-		"Craft": "네크로맨서",
+		"Craft": "뱀파이어",
 		"Trait": "기계",
 		"Cost": 2,
 		"ATK": 2,
@@ -62497,19 +62497,19 @@
 	},	
 	{	
 		"ID": 132811010,
-		"Name": "붉은빛의 도전자 모노",
+		"Name": "구식 기계병",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "추종자",
-		"Craft": "뱀파이어",
+		"Craft": "네메시스",
 		"Trait": "기계",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
 		"EvolvedATK": 5,
 		"EvolvedHP": 5,
-		"Rarity": {"Name": "레전드", "ID": 4}
+		"Rarity": {"Name": "브론즈 레어", "ID": 1}
 	},	
 	{	
 		"ID": 132641030,
@@ -62769,19 +62769,19 @@
 	},	
 	{	
 		"ID": 132321010,
-		"Name": "구식 기계병",
+		"Name": "데이터 소서러",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "추종자",
-		"Craft": "네메시스",
+		"Craft": "위치",
 		"Trait": "기계",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
 		"EvolvedATK": 5,
 		"EvolvedHP": 5,
-		"Rarity": {"Name": "브론즈 레어", "ID": 1}
+		"Rarity": {"Name": "실버 레어", "ID": 2}
 	},	
 	{	
 		"ID": 132811020,

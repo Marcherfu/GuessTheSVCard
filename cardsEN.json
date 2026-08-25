@@ -12387,7 +12387,7 @@
 		"ID": 105312010,
 		"Name": "Witch's Cauldron",
 		"FirstPrint": {"Expansion": "Wonderland Dreams", "ReleaseDate": "2017-06-29"},
-		"SecondPrint": {"Expansion": "Rebirth Of Glory", "ReleaseDate": "2019-06-27"},
+		"SecondPrint": {"Expansion": "Rebirth of Glory", "ReleaseDate": "2019-06-27"},
 		
 		"Type": "Amulet",
 		"Craft": "Runecraft",
@@ -33930,9 +33930,9 @@
 		"Trait": "Officer",
 		"Cost": 2,
 		"ATK": 2,
-		"HP": 1,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 3,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "Bronze", "ID": 1}
 	},	
 	{	
@@ -36312,7 +36312,7 @@
 		"Type": "Follower",
 		"Craft": "Dragoncraft",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
 		"EvolvedATK": 4,
@@ -36521,10 +36521,10 @@
 		"Craft": "Shadowcraft",
 		"Trait": "-",
 		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"ATK": 6,
+		"HP": 6,
+		"EvolvedATK": 8,
+		"EvolvedHP": 8,
 		"Rarity": {"Name": "Legendary", "ID": 4}
 	},	
 	{	
@@ -36779,7 +36779,7 @@
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 2,
-		"EvolvedATK": 2,
+		"EvolvedATK": 3,
 		"EvolvedHP": 4,
 		"Rarity": {"Name": "Bronze", "ID": 1}
 	},	
@@ -36872,11 +36872,11 @@
 		"Type": "Follower",
 		"Craft": "Havencraft",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
-		"HP": 3,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 5,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "Gold", "ID": 3}
 	},	
 	{	
@@ -37128,10 +37128,10 @@
 		"Type": "Follower",
 		"Craft": "Portalcraft",
 		"Trait": "-",
-		"Cost": 2,
-		"ATK": 2,
+		"Cost": 1,
+		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
+		"EvolvedATK": 2,
 		"EvolvedHP": 2,
 		"Rarity": {"Name": "Legendary", "ID": 4}
 	},	
@@ -37259,8 +37259,8 @@
 		"Cost": 1,
 		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
-		"EvolvedHP": 3,
+		"EvolvedATK": 2,
+		"EvolvedHP": 2,
 		"Rarity": {"Name": "Gold", "ID": 3}
 	},	
 	{	
@@ -37736,7 +37736,7 @@
 		"Type": "Follower",
 		"Craft": "Swordcraft",
 		"Trait": "Officer",
-		"Cost": 7,
+		"Cost": 6,
 		"ATK": 5,
 		"HP": 9,
 		"EvolvedATK": 7,
@@ -41288,11 +41288,11 @@
 		"Type": "Follower",
 		"Craft": "Swordcraft",
 		"Trait": "Commander",
-		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"Cost": 6,
+		"ATK": 4,
+		"HP": 4,
+		"EvolvedATK": 6,
+		"EvolvedHP": 6,
 		"Rarity": {"Name": "Gold", "ID": 3}
 	},	
 	{	
@@ -61665,7 +61665,7 @@
 	},	
 	{	
 		"ID": 132311030,
-		"Name": "Magitech Mystic",
+		"Name": "Rivaylian Officer",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61681,7 +61681,7 @@
 	},	
 	{	
 		"ID": 132311040,
-		"Name": "Rivaylian Officer",
+		"Name": "Purehearted Robot",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61697,7 +61697,7 @@
 	},	
 	{	
 		"ID": 132321020,
-		"Name": "Purehearted Robot",
+		"Name": "Gaia Sorceress",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61713,7 +61713,7 @@
 	},	
 	{	
 		"ID": 132324010,
-		"Name": "Tech Wizard",
+		"Name": "Connected Hearts",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61729,7 +61729,7 @@
 	},	
 	{	
 		"ID": 132331010,
-		"Name": "Gaia Sorceress",
+		"Name": "Eleanor, Beloved Flower",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61745,7 +61745,7 @@
 	},	
 	{	
 		"ID": 132531010,
-		"Name": "Connected Hearts",
+		"Name": "Nicola, Unauthorized Hope",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61761,7 +61761,7 @@
 	},	
 	{	
 		"ID": 132311020,
-		"Name": "Eleanor, Beloved Flower",
+		"Name": "Magitech Mystic",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62017,7 +62017,7 @@
 	},	
 	{	
 		"ID": 132511010,
-		"Name": "Overcoming Power",
+		"Name": "Steelskull",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62033,7 +62033,7 @@
 	},	
 	{	
 		"ID": 132434010,
-		"Name": "Crystalshard Dragonewt",
+		"Name": "Overcoming Power",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62049,7 +62049,7 @@
 	},	
 	{	
 		"ID": 132441010,
-		"Name": "Valdain, Bound Shadow",
+		"Name": "Crystalshard Dragonewt",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62065,7 +62065,7 @@
 	},	
 	{	
 		"ID": 132441020,
-		"Name": "Rola, Hellfire Dragoon",
+		"Name": "Valdain, Bound Shadow",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62081,7 +62081,7 @@
 	},	
 	{	
 		"ID": 132441030,
-		"Name": "Drache, Soaring Flare",
+		"Name": "Rola, Hellfire Dragoon",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62097,7 +62097,7 @@
 	},	
 	{	
 		"ID": 132441040,
-		"Name": "Steelskull",
+		"Name": "Drache, Soaring Flare",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62209,7 +62209,7 @@
 	},	
 	{	
 		"ID": 132531020,
-		"Name": "Nicola, Unauthorized Hope",
+		"Name": "Avant-Garde Gravedigger",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62225,7 +62225,7 @@
 	},	
 	{	
 		"ID": 132534010,
-		"Name": "Avant-Garde Gravedigger",
+		"Name": "Friends Anywhere",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62241,7 +62241,7 @@
 	},	
 	{	
 		"ID": 132541010,
-		"Name": "Friends Anywhere",
+		"Name": "Atem",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62257,7 +62257,7 @@
 	},	
 	{	
 		"ID": 132541020,
-		"Name": "Atem",
+		"Name": "Aenea, Amethyst Creator",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62273,7 +62273,7 @@
 	},	
 	{	
 		"ID": 132641020,
-		"Name": "Aenea, Amethyst Creator",
+		"Name": "Mono, Garnet Challenger",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62497,7 +62497,7 @@
 	},	
 	{	
 		"ID": 132811010,
-		"Name": "Mono, Garnet Challenger",
+		"Name": "Outmoded Warrior",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62769,7 +62769,7 @@
 	},	
 	{	
 		"ID": 132321010,
-		"Name": "Outmoded Warrior",
+		"Name": "Tech Wizard",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62991,4 +62991,4 @@
 		"EvolvedHP": 7,
 		"Rarity": {"Name": "Legendary", "ID": 4}
 	}	
-]
+]		

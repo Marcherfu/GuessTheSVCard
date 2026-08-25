@@ -7,13 +7,24 @@
     <link rel="stylesheet" href="../style.css">
 </head>
 <body>
-    <div class="container">
+	<div class="container">
 		<button id="darkModeToggle">Toggle Dark Mode</button>
 		<p>For any inquiries, contact beermoney1185 on Discord.</p>
         <h1>Guess the Shadowverse Card !</h1>
+		<div class="mode-selector">
+			<button id="dailyModeBtn" class="mode-btn active">Daily</button>
+			<button id="endlessModeBtn" class="mode-btn">Endless</button>
+		</div>
+		<p id="streak" style="display: none;">🔥 Win Streak: 0</p>
         <p>Enter your guess below:</p>
-        <input type="text" id="guessInput" placeholder="Type your guess...">
+		<div class="guess-container">
+			<input type="text" id="guessInput" placeholder="Type your guess..." autocomplete="off">
+			<div id="suggestions"></div>
+		</div>
         <button id="submitBtn" onclick="checkGuess()">Submit</button>
+		<button id="nextCardBtn" onclick="startEndlessRound()" style="display: none;">
+			Next Card
+		</button>
         <p id="feedback"></p>
         <p id="attempts">Attempts left: 5</p>
         <div id="hints"></div>

@@ -12387,7 +12387,7 @@
 		"ID": 105312010,
 		"Name": "魔女の大釜",
 		"FirstPrint": {"Expansion": "Wonderland Dreams", "ReleaseDate": "2017-06-29"},
-		"SecondPrint": {"Expansion": "Rebirth Of Glory", "ReleaseDate": "2019-06-27"},
+		"SecondPrint": {"Expansion": "Rebirth of Glory", "ReleaseDate": "2019-06-27"},
 		
 		"Type": "アミュレット",
 		"Craft": "ウィッチ",
@@ -31783,7 +31783,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ニュートラル",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 3,
@@ -31847,7 +31847,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ニュートラル",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 7,
 		"ATK": 6,
 		"HP": 6,
@@ -32071,7 +32071,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/機械",
+		"Trait": "兵士・機械",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -32151,7 +32151,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/自然",
+		"Trait": "兵士・自然",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -32231,7 +32231,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/自然",
+		"Trait": "兵士・自然",
 		"Cost": 7,
 		"ATK": 6,
 		"HP": 8,
@@ -32247,7 +32247,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/機械",
+		"Trait": "指揮官・機械",
 		"Cost": 5,
 		"ATK": 4,
 		"HP": 5,
@@ -33351,7 +33351,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 3,
 		"ATK": 2,
 		"HP": 3,
@@ -33447,7 +33447,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 5,
 		"ATK": 1,
 		"HP": 5,
@@ -33479,7 +33479,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/アーティファクト",
+		"Trait": "機械・アーティファクト",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 1,
@@ -33511,7 +33511,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 6,
 		"ATK": 6,
 		"HP": 6,
@@ -33930,9 +33930,9 @@
 		"Trait": "兵士",
 		"Cost": 2,
 		"ATK": 2,
-		"HP": 1,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 3,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "ブロンズレア", "ID": 1}
 	},	
 	{	
@@ -36312,7 +36312,7 @@
 		"Type": "フォロワー",
 		"Craft": "ドラゴン",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
 		"EvolvedATK": 4,
@@ -36521,10 +36521,10 @@
 		"Craft": "ネクロマンサー",
 		"Trait": "-",
 		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"ATK": 6,
+		"HP": 6,
+		"EvolvedATK": 8,
+		"EvolvedHP": 8,
 		"Rarity": {"Name": "レジェンド", "ID": 4}
 	},	
 	{	
@@ -36779,7 +36779,7 @@
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 2,
-		"EvolvedATK": 2,
+		"EvolvedATK": 3,
 		"EvolvedHP": 4,
 		"Rarity": {"Name": "ブロンズレア", "ID": 1}
 	},	
@@ -36872,11 +36872,11 @@
 		"Type": "フォロワー",
 		"Craft": "ビショップ",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
-		"HP": 3,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 5,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "ゴールドレア", "ID": 3}
 	},	
 	{	
@@ -37128,10 +37128,10 @@
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
 		"Trait": "-",
-		"Cost": 2,
-		"ATK": 2,
+		"Cost": 1,
+		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
+		"EvolvedATK": 2,
 		"EvolvedHP": 2,
 		"Rarity": {"Name": "レジェンド", "ID": 4}
 	},	
@@ -37259,8 +37259,8 @@
 		"Cost": 1,
 		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
-		"EvolvedHP": 3,
+		"EvolvedATK": 2,
+		"EvolvedHP": 2,
 		"Rarity": {"Name": "ゴールドレア", "ID": 3}
 	},	
 	{	
@@ -37736,7 +37736,7 @@
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
 		"Trait": "兵士",
-		"Cost": 7,
+		"Cost": 6,
 		"ATK": 5,
 		"HP": 9,
 		"EvolvedATK": 7,
@@ -39463,7 +39463,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/レヴィオン",
+		"Trait": "兵士・レヴィオン",
 		"Cost": 4,
 		"ATK": 4,
 		"HP": 3,
@@ -39511,7 +39511,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/レヴィオン",
+		"Trait": "指揮官・レヴィオン",
 		"Cost": 5,
 		"ATK": 3,
 		"HP": 5,
@@ -41063,7 +41063,7 @@
 		
 		"Type": "スペル",
 		"Craft": "エルフ",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 2,
 		"ATK": 0,
 		"HP": 0,
@@ -41288,11 +41288,11 @@
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
 		"Trait": "指揮官",
-		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"Cost": 6,
+		"ATK": 4,
+		"HP": 4,
+		"EvolvedATK": 6,
+		"EvolvedHP": 6,
 		"Rarity": {"Name": "ゴールドレア", "ID": 3}
 	},	
 	{	
@@ -41335,7 +41335,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/自然",
+		"Trait": "指揮官・自然",
 		"Cost": 6,
 		"ATK": 4,
 		"HP": 6,
@@ -41399,7 +41399,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ウィッチ",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -41479,7 +41479,7 @@
 		
 		"Type": "スペル",
 		"Craft": "ウィッチ",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 3,
 		"ATK": 0,
 		"HP": 0,
@@ -42103,7 +42103,7 @@
 		
 		"Type": "スペル",
 		"Craft": "ヴァンパイア",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 2,
 		"ATK": 0,
 		"HP": 0,
@@ -42359,7 +42359,7 @@
 		
 		"Type": "アミュレット",
 		"Craft": "ビショップ",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 2,
 		"ATK": 0,
 		"HP": 0,
@@ -46375,7 +46375,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/アーティファクト",
+		"Trait": "機械・アーティファクト",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -46791,7 +46791,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/宴楽",
+		"Trait": "兵士・宴楽",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -46855,7 +46855,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/宴楽",
+		"Trait": "兵士・宴楽",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
@@ -46951,7 +46951,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/宴楽",
+		"Trait": "指揮官・宴楽",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -46967,7 +46967,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/宴楽",
+		"Trait": "指揮官・宴楽",
 		"Cost": 4,
 		"ATK": 4,
 		"HP": 4,
@@ -48199,7 +48199,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/宴楽",
+		"Trait": "機械・宴楽",
 		"Cost": 5,
 		"ATK": 6,
 		"HP": 6,
@@ -50455,7 +50455,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/ヒーロー",
+		"Trait": "兵士・ヒーロー",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -50519,7 +50519,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/ヒーロー",
+		"Trait": "兵士・ヒーロー",
 		"Cost": 4,
 		"ATK": 3,
 		"HP": 3,
@@ -50567,7 +50567,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/ヒーロー",
+		"Trait": "兵士・ヒーロー",
 		"Cost": 1,
 		"ATK": 1,
 		"HP": 2,
@@ -50615,7 +50615,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/ヒーロー",
+		"Trait": "指揮官・ヒーロー",
 		"Cost": 4,
 		"ATK": 3,
 		"HP": 5,
@@ -52295,7 +52295,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/八獄",
+		"Trait": "兵士・八獄",
 		"Cost": 1,
 		"ATK": 1,
 		"HP": 1,
@@ -52359,7 +52359,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/八獄",
+		"Trait": "兵士・八獄",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -52375,7 +52375,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/ヒーロー",
+		"Trait": "兵士・ヒーロー",
 		"Cost": 3,
 		"ATK": 1,
 		"HP": 3,
@@ -52391,7 +52391,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/ヒーロー",
+		"Trait": "兵士・ヒーロー",
 		"Cost": 5,
 		"ATK": 4,
 		"HP": 5,
@@ -52407,7 +52407,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/八獄",
+		"Trait": "兵士・八獄",
 		"Cost": 3,
 		"ATK": 2,
 		"HP": 2,
@@ -52423,7 +52423,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/八獄",
+		"Trait": "指揮官・八獄",
 		"Cost": 6,
 		"ATK": 3,
 		"HP": 4,
@@ -52455,7 +52455,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/八獄",
+		"Trait": "指揮官・八獄",
 		"Cost": 4,
 		"ATK": 5,
 		"HP": 3,
@@ -52471,7 +52471,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/八獄",
+		"Trait": "指揮官・八獄",
 		"Cost": 7,
 		"ATK": 4,
 		"HP": 8,
@@ -53671,7 +53671,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/八獄",
+		"Trait": "機械・八獄",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
@@ -53719,7 +53719,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/八獄",
+		"Trait": "機械・八獄",
 		"Cost": 7,
 		"ATK": 5,
 		"HP": 5,
@@ -54119,7 +54119,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/学園",
+		"Trait": "兵士・学園",
 		"Cost": 4,
 		"ATK": 5,
 		"HP": 4,
@@ -54135,7 +54135,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/学園",
+		"Trait": "兵士・学園",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 2,
@@ -54183,7 +54183,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/学園",
+		"Trait": "兵士・学園",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
@@ -54199,7 +54199,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/学園",
+		"Trait": "指揮官・学園",
 		"Cost": 6,
 		"ATK": 6,
 		"HP": 6,
@@ -54231,7 +54231,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/学園",
+		"Trait": "兵士・学園",
 		"Cost": 4,
 		"ATK": 3,
 		"HP": 3,
@@ -54247,7 +54247,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/学園",
+		"Trait": "指揮官・学園",
 		"Cost": 4,
 		"ATK": 4,
 		"HP": 4,
@@ -54279,7 +54279,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/学園",
+		"Trait": "指揮官・学園",
 		"Cost": 3,
 		"ATK": 2,
 		"HP": 3,
@@ -54295,7 +54295,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/学園",
+		"Trait": "指揮官・学園",
 		"Cost": 7,
 		"ATK": 6,
 		"HP": 6,
@@ -54359,7 +54359,7 @@
 		
 		"Type": "スペル",
 		"Craft": "ウィッチ",
-		"Trait": "マナリア/学園",
+		"Trait": "マナリア・学園",
 		"Cost": 1,
 		"ATK": 0,
 		"HP": 0,
@@ -54391,7 +54391,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ウィッチ",
-		"Trait": "マナリア/学園",
+		"Trait": "マナリア・学園",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
@@ -54439,7 +54439,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ウィッチ",
-		"Trait": "マナリア/学園",
+		"Trait": "マナリア・学園",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -54471,7 +54471,7 @@
 		
 		"Type": "スペル",
 		"Craft": "ウィッチ",
-		"Trait": "マナリア/学園",
+		"Trait": "マナリア・学園",
 		"Cost": 1,
 		"ATK": 0,
 		"HP": 0,
@@ -54503,7 +54503,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ウィッチ",
-		"Trait": "マナリア/学園",
+		"Trait": "マナリア・学園",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
@@ -55367,7 +55367,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/学園",
+		"Trait": "機械・学園",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -55431,7 +55431,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/学園",
+		"Trait": "機械・学園",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 3,
@@ -55447,7 +55447,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/学園",
+		"Trait": "機械・学園",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 1,
@@ -55479,7 +55479,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/学園",
+		"Trait": "機械・学園",
 		"Cost": 4,
 		"ATK": 3,
 		"HP": 4,
@@ -55495,7 +55495,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/学園",
+		"Trait": "機械・学園",
 		"Cost": 5,
 		"ATK": 4,
 		"HP": 3,
@@ -55543,7 +55543,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ネメシス",
-		"Trait": "機械/学園",
+		"Trait": "機械・学園",
 		"Cost": 6,
 		"ATK": 3,
 		"HP": 5,
@@ -57895,7 +57895,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/ヒーロー",
+		"Trait": "兵士・ヒーロー",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 4,
@@ -61303,7 +61303,7 @@
 		
 		"Type": "スペル",
 		"Craft": "エルフ",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 2,
 		"ATK": 0,
 		"HP": 0,
@@ -61431,7 +61431,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/自然",
+		"Trait": "兵士・自然",
 		"Cost": 2,
 		"ATK": 3,
 		"HP": 1,
@@ -61447,7 +61447,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/自然",
+		"Trait": "兵士・自然",
 		"Cost": 1,
 		"ATK": 1,
 		"HP": 1,
@@ -61495,7 +61495,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/自然",
+		"Trait": "兵士・自然",
 		"Cost": 4,
 		"ATK": 4,
 		"HP": 4,
@@ -61559,7 +61559,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "兵士/機械",
+		"Trait": "兵士・機械",
 		"Cost": 7,
 		"ATK": 7,
 		"HP": 6,
@@ -61607,7 +61607,7 @@
 		
 		"Type": "フォロワー",
 		"Craft": "ロイヤル",
-		"Trait": "指揮官/自然",
+		"Trait": "指揮官・自然",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
@@ -61665,7 +61665,7 @@
 	},	
 	{	
 		"ID": 132311030,
-		"Name": "緻密の占術師",
+		"Name": "レヴィールの捜査官",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61681,13 +61681,13 @@
 	},	
 	{	
 		"ID": 132311040,
-		"Name": "レヴィールの捜査官",
+		"Name": "純心の機械",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "フォロワー",
 		"Craft": "ウィッチ",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -61697,7 +61697,7 @@
 	},	
 	{	
 		"ID": 132321020,
-		"Name": "純心の機械",
+		"Name": "地平の魔女",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61713,13 +61713,13 @@
 	},	
 	{	
 		"ID": 132324010,
-		"Name": "データソーサラー",
+		"Name": "心の交信",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "スペル",
 		"Craft": "ウィッチ",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 3,
 		"ATK": 0,
 		"HP": 0,
@@ -61729,7 +61729,7 @@
 	},	
 	{	
 		"ID": 132331010,
-		"Name": "地平の魔女",
+		"Name": "友愛の華・エレノア",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61745,7 +61745,7 @@
 	},	
 	{	
 		"ID": 132531010,
-		"Name": "心の交信",
+		"Name": "禁絶の光・ニコラ",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -61761,7 +61761,7 @@
 	},	
 	{	
 		"ID": 132311020,
-		"Name": "友愛の華・エレノア",
+		"Name": "緻密の占術師",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62017,7 +62017,7 @@
 	},	
 	{	
 		"ID": 132511010,
-		"Name": "暴威の克服",
+		"Name": "スカルドローン",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62033,7 +62033,7 @@
 	},	
 	{	
 		"ID": 132434010,
-		"Name": "クリスタルドラゴニュート",
+		"Name": "暴威の克服",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62049,7 +62049,7 @@
 	},	
 	{	
 		"ID": 132441010,
-		"Name": "呪縛の閃影・ヴァイディ",
+		"Name": "クリスタルドラゴニュート",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62065,7 +62065,7 @@
 	},	
 	{	
 		"ID": 132441020,
-		"Name": "フェイタルドラグーン・ローラ",
+		"Name": "呪縛の閃影・ヴァイディ",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62081,7 +62081,7 @@
 	},	
 	{	
 		"ID": 132441030,
-		"Name": "翔破の竜炎・ドラーク",
+		"Name": "フェイタルドラグーン・ローラ",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62097,7 +62097,7 @@
 	},	
 	{	
 		"ID": 132441040,
-		"Name": "スカルドローン",
+		"Name": "翔破の竜炎・ドラーク",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62209,7 +62209,7 @@
 	},	
 	{	
 		"ID": 132531020,
-		"Name": "禁絶の光・ニコラ",
+		"Name": "エキゾチックディガー",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62225,7 +62225,7 @@
 	},	
 	{	
 		"ID": 132534010,
-		"Name": "エキゾチックディガー",
+		"Name": "絆の協心",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62241,7 +62241,7 @@
 	},	
 	{	
 		"ID": 132541010,
-		"Name": "絆の協心",
+		"Name": "アテム",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62257,7 +62257,7 @@
 	},	
 	{	
 		"ID": 132541020,
-		"Name": "アテム",
+		"Name": "紫紺の創造者・エンネア",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62273,7 +62273,7 @@
 	},	
 	{	
 		"ID": 132641020,
-		"Name": "紫紺の創造者・エンネア",
+		"Name": "真紅の挑戦者・モノ",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62423,7 +62423,7 @@
 		
 		"Type": "スペル",
 		"Craft": "ヴァンパイア",
-		"Trait": "機械/自然",
+		"Trait": "機械・自然",
 		"Cost": 2,
 		"ATK": 0,
 		"HP": 0,
@@ -62497,7 +62497,7 @@
 	},	
 	{	
 		"ID": 132811010,
-		"Name": "真紅の挑戦者・モノ",
+		"Name": "旧式機械兵",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62769,7 +62769,7 @@
 	},	
 	{	
 		"ID": 132321010,
-		"Name": "旧式機械兵",
+		"Name": "データソーサラー",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62991,4 +62991,4 @@
 		"EvolvedHP": 7,
 		"Rarity": {"Name": "レジェンド", "ID": 4}
 	}	
-]
+]		

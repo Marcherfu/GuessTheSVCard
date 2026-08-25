@@ -12387,7 +12387,7 @@
 		"ID": 105312010,
 		"Name": "Caldero de la Bruja",
 		"FirstPrint": {"Expansion": "Wonderland Dreams", "ReleaseDate": "2017-06-29"},
-		"SecondPrint": {"Expansion": "Rebirth Of Glory", "ReleaseDate": "2019-06-27"},
+		"SecondPrint": {"Expansion": "Rebirth of Glory", "ReleaseDate": "2019-06-27"},
 		
 		"Type": "Amuletos",
 		"Craft": "Rúnico",
@@ -33930,9 +33930,9 @@
 		"Trait": "Soldado",
 		"Cost": 2,
 		"ATK": 2,
-		"HP": 1,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 3,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "Bronce", "ID": 1}
 	},	
 	{	
@@ -36312,7 +36312,7 @@
 		"Type": "Combatientes",
 		"Craft": "Dracónico",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
 		"EvolvedATK": 4,
@@ -36521,10 +36521,10 @@
 		"Craft": "Nigromante",
 		"Trait": "-",
 		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"ATK": 6,
+		"HP": 6,
+		"EvolvedATK": 8,
+		"EvolvedHP": 8,
 		"Rarity": {"Name": "Legendaria", "ID": 4}
 	},	
 	{	
@@ -36779,7 +36779,7 @@
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 2,
-		"EvolvedATK": 2,
+		"EvolvedATK": 3,
 		"EvolvedHP": 4,
 		"Rarity": {"Name": "Bronce", "ID": 1}
 	},	
@@ -36872,11 +36872,11 @@
 		"Type": "Combatientes",
 		"Craft": "Clerical",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
-		"HP": 3,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 5,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "Oro", "ID": 3}
 	},	
 	{	
@@ -37128,10 +37128,10 @@
 		"Type": "Combatientes",
 		"Craft": "Dimensional",
 		"Trait": "-",
-		"Cost": 2,
-		"ATK": 2,
+		"Cost": 1,
+		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
+		"EvolvedATK": 2,
 		"EvolvedHP": 2,
 		"Rarity": {"Name": "Legendaria", "ID": 4}
 	},	
@@ -37259,8 +37259,8 @@
 		"Cost": 1,
 		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
-		"EvolvedHP": 3,
+		"EvolvedATK": 2,
+		"EvolvedHP": 2,
 		"Rarity": {"Name": "Oro", "ID": 3}
 	},	
 	{	
@@ -37736,7 +37736,7 @@
 		"Type": "Combatientes",
 		"Craft": "Imperial",
 		"Trait": "Soldado",
-		"Cost": 7,
+		"Cost": 6,
 		"ATK": 5,
 		"HP": 9,
 		"EvolvedATK": 7,
@@ -41288,11 +41288,11 @@
 		"Type": "Combatientes",
 		"Craft": "Imperial",
 		"Trait": "Comandante",
-		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"Cost": 6,
+		"ATK": 4,
+		"HP": 4,
+		"EvolvedATK": 6,
+		"EvolvedHP": 6,
 		"Rarity": {"Name": "Oro", "ID": 3}
 	},	
 	{	
@@ -61665,13 +61665,13 @@
 	},	
 	{	
 		"ID": 132311030,
-		"Name": "Adivina Precisa",
+		"Name": "Investigador de Rivayle",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combatientes",
 		"Craft": "Rúnico",
-		"Trait": "Máquina",
+		"Trait": "-",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 2,
@@ -61681,13 +61681,13 @@
 	},	
 	{	
 		"ID": 132311040,
-		"Name": "Investigador de Rivayle",
+		"Name": "Robot de Corazón Puro",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combatientes",
 		"Craft": "Rúnico",
-		"Trait": "-",
+		"Trait": "Máquina & Natura",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -61697,29 +61697,29 @@
 	},	
 	{	
 		"ID": 132321020,
-		"Name": "Robot de Corazón Puro",
+		"Name": "Bruja de la Tierra",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combatientes",
 		"Craft": "Rúnico",
-		"Trait": "Máquina & Natura",
+		"Trait": "Natura",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 3,
 		"EvolvedATK": 3,
 		"EvolvedHP": 5,
-		"Rarity": {"Name": "Bronce", "ID": 1}
+		"Rarity": {"Name": "Plata", "ID": 2}
 	},	
 	{	
 		"ID": 132324010,
-		"Name": "Hechicero de la Base de Datos",
+		"Name": "Interconexión del Alma",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
-		"Type": "Combatientes",
+		"Type": "Hechizos",
 		"Craft": "Rúnico",
-		"Trait": "Máquina",
+		"Trait": "Máquina & Natura",
 		"Cost": 3,
 		"ATK": 0,
 		"HP": 0,
@@ -61729,38 +61729,6 @@
 	},	
 	{	
 		"ID": 132331010,
-		"Name": "Bruja de la Tierra",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "Combatientes",
-		"Craft": "Rúnico",
-		"Trait": "Natura",
-		"Cost": 3,
-		"ATK": 2,
-		"HP": 2,
-		"EvolvedATK": 4,
-		"EvolvedHP": 4,
-		"Rarity": {"Name": "Plata", "ID": 2}
-	},	
-	{	
-		"ID": 132531010,
-		"Name": "Interconexión del Alma",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "Hechizos",
-		"Craft": "Rúnico",
-		"Trait": "Máquina & Natura",
-		"Cost": 2,
-		"ATK": 1,
-		"HP": 1,
-		"EvolvedATK": 3,
-		"EvolvedHP": 3,
-		"Rarity": {"Name": "Plata", "ID": 2}
-	},	
-	{	
-		"ID": 132311020,
 		"Name": "Eleanor, Flor de la Amistad",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -61768,12 +61736,44 @@
 		"Type": "Combatientes",
 		"Craft": "Rúnico",
 		"Trait": "-",
-		"Cost": 2,
+		"Cost": 3,
 		"ATK": 2,
 		"HP": 2,
 		"EvolvedATK": 4,
 		"EvolvedHP": 4,
 		"Rarity": {"Name": "Oro", "ID": 3}
+	},	
+	{	
+		"ID": 132531010,
+		"Name": "Nicola, Luz Prohibida",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "Combatientes",
+		"Craft": "Nigromante",
+		"Trait": "Máquina",
+		"Cost": 2,
+		"ATK": 1,
+		"HP": 1,
+		"EvolvedATK": 3,
+		"EvolvedHP": 3,
+		"Rarity": {"Name": "Oro", "ID": 3}
+	},	
+	{	
+		"ID": 132311020,
+		"Name": "Adivina Precisa",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "Combatientes",
+		"Craft": "Rúnico",
+		"Trait": "Máquina",
+		"Cost": 2,
+		"ATK": 2,
+		"HP": 2,
+		"EvolvedATK": 4,
+		"EvolvedHP": 4,
+		"Rarity": {"Name": "Bronce", "ID": 1}
 	},	
 	{	
 		"ID": 132331020,
@@ -62017,6 +62017,22 @@
 	},	
 	{	
 		"ID": 132511010,
+		"Name": "Dron de Calaveras",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "Combatientes",
+		"Craft": "Nigromante",
+		"Trait": "Máquina",
+		"Cost": 4,
+		"ATK": 3,
+		"HP": 3,
+		"EvolvedATK": 5,
+		"EvolvedHP": 5,
+		"Rarity": {"Name": "Bronce", "ID": 1}
+	},	
+	{	
+		"ID": 132434010,
 		"Name": "Control de la Cólera",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -62024,15 +62040,15 @@
 		"Type": "Hechizos",
 		"Craft": "Dracónico",
 		"Trait": "-",
-		"Cost": 4,
-		"ATK": 3,
-		"HP": 3,
-		"EvolvedATK": 5,
-		"EvolvedHP": 5,
+		"Cost": 3,
+		"ATK": 0,
+		"HP": 0,
+		"EvolvedATK": 0,
+		"EvolvedHP": 0,
 		"Rarity": {"Name": "Oro", "ID": 3}
 	},	
 	{	
-		"ID": 132434010,
+		"ID": 132441010,
 		"Name": "Dracomorfa de Cuarzo",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -62040,22 +62056,6 @@
 		"Type": "Combatientes",
 		"Craft": "Dracónico",
 		"Trait": "-",
-		"Cost": 3,
-		"ATK": 0,
-		"HP": 0,
-		"EvolvedATK": 0,
-		"EvolvedHP": 0,
-		"Rarity": {"Name": "Legendaria", "ID": 4}
-	},	
-	{	
-		"ID": 132441010,
-		"Name": "Valdain, Espectro Condenado",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "Combatientes",
-		"Craft": "Dracónico",
-		"Trait": "Natura",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
@@ -62065,13 +62065,13 @@
 	},	
 	{	
 		"ID": 132441020,
-		"Name": "Lola, Jinete Letal",
+		"Name": "Valdain, Espectro Condenado",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combatientes",
 		"Craft": "Dracónico",
-		"Trait": "Máquina",
+		"Trait": "Natura",
 		"Cost": 4,
 		"ATK": 4,
 		"HP": 4,
@@ -62081,13 +62081,13 @@
 	},	
 	{	
 		"ID": 132441030,
-		"Name": "Drache, Llamas Surcacielos",
+		"Name": "Lola, Jinete Letal",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combatientes",
 		"Craft": "Dracónico",
-		"Trait": "-",
+		"Trait": "Máquina",
 		"Cost": 7,
 		"ATK": 4,
 		"HP": 6,
@@ -62097,19 +62097,19 @@
 	},	
 	{	
 		"ID": 132441040,
-		"Name": "Dron de Calaveras",
+		"Name": "Drache, Llamas Surcacielos",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combatientes",
-		"Craft": "Nigromante",
-		"Trait": "Máquina",
+		"Craft": "Dracónico",
+		"Trait": "-",
 		"Cost": 9,
 		"ATK": 6,
 		"HP": 4,
 		"EvolvedATK": 8,
 		"EvolvedHP": 6,
-		"Rarity": {"Name": "Bronce", "ID": 1}
+		"Rarity": {"Name": "Legendaria", "ID": 4}
 	},	
 	{	
 		"ID": 132511020,
@@ -62209,7 +62209,7 @@
 	},	
 	{	
 		"ID": 132531020,
-		"Name": "Nicola, Luz Prohibida",
+		"Name": "Exhumadora Extravagante",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62225,13 +62225,13 @@
 	},	
 	{	
 		"ID": 132534010,
-		"Name": "Exhumadora Extravagante",
+		"Name": "Cooperación de los Lazos",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
-		"Type": "Combatientes",
+		"Type": "Hechizos",
 		"Craft": "Nigromante",
-		"Trait": "Máquina",
+		"Trait": "-",
 		"Cost": 1,
 		"ATK": 0,
 		"HP": 0,
@@ -62241,22 +62241,6 @@
 	},	
 	{	
 		"ID": 132541010,
-		"Name": "Cooperación de los Lazos",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "Hechizos",
-		"Craft": "Nigromante",
-		"Trait": "-",
-		"Cost": 7,
-		"ATK": 7,
-		"HP": 4,
-		"EvolvedATK": 9,
-		"EvolvedHP": 6,
-		"Rarity": {"Name": "Oro", "ID": 3}
-	},	
-	{	
-		"ID": 132541020,
 		"Name": "Atum",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -62264,6 +62248,22 @@
 		"Type": "Combatientes",
 		"Craft": "Nigromante",
 		"Trait": "-",
+		"Cost": 7,
+		"ATK": 7,
+		"HP": 4,
+		"EvolvedATK": 9,
+		"EvolvedHP": 6,
+		"Rarity": {"Name": "Legendaria", "ID": 4}
+	},	
+	{	
+		"ID": 132541020,
+		"Name": "Aenea, Creadora Malva",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "Combatientes",
+		"Craft": "Nigromante",
+		"Trait": "Máquina",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 1,
@@ -62273,12 +62273,12 @@
 	},	
 	{	
 		"ID": 132641020,
-		"Name": "Aenea, Creadora Malva",
+		"Name": "Mono, Retadora Carmesí",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combatientes",
-		"Craft": "Nigromante",
+		"Craft": "Vampírico",
 		"Trait": "Máquina",
 		"Cost": 2,
 		"ATK": 2,
@@ -62497,19 +62497,19 @@
 	},	
 	{	
 		"ID": 132811010,
-		"Name": "Mono, Retadora Carmesí",
+		"Name": "Soldado Mecánico Obsoleto",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combatientes",
-		"Craft": "Vampírico",
+		"Craft": "Dimensional",
 		"Trait": "Máquina",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
 		"EvolvedATK": 5,
 		"EvolvedHP": 5,
-		"Rarity": {"Name": "Legendaria", "ID": 4}
+		"Rarity": {"Name": "Bronce", "ID": 1}
 	},	
 	{	
 		"ID": 132641030,
@@ -62769,19 +62769,19 @@
 	},	
 	{	
 		"ID": 132321010,
-		"Name": "Soldado Mecánico Obsoleto",
+		"Name": "Hechicero de la Base de Datos",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combatientes",
-		"Craft": "Dimensional",
+		"Craft": "Rúnico",
 		"Trait": "Máquina",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
 		"EvolvedATK": 5,
 		"EvolvedHP": 5,
-		"Rarity": {"Name": "Bronce", "ID": 1}
+		"Rarity": {"Name": "Plata", "ID": 2}
 	},	
 	{	
 		"ID": 132811020,
@@ -62991,4 +62991,4 @@
 		"EvolvedHP": 7,
 		"Rarity": {"Name": "Legendaria", "ID": 4}
 	}	
-]
+]		

@@ -12387,7 +12387,7 @@
 		"ID": 105312010,
 		"Name": "Chaudron de la sorcière",
 		"FirstPrint": {"Expansion": "Wonderland Dreams", "ReleaseDate": "2017-06-29"},
-		"SecondPrint": {"Expansion": "Rebirth Of Glory", "ReleaseDate": "2019-06-27"},
+		"SecondPrint": {"Expansion": "Rebirth of Glory", "ReleaseDate": "2019-06-27"},
 		
 		"Type": "Amulette",
 		"Craft": "Esotériques",
@@ -33930,9 +33930,9 @@
 		"Trait": "Soldat",
 		"Cost": 2,
 		"ATK": 2,
-		"HP": 1,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 3,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "Bronze", "ID": 1}
 	},	
 	{	
@@ -36312,7 +36312,7 @@
 		"Type": "Combattant",
 		"Craft": "Draconiques",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
 		"EvolvedATK": 4,
@@ -36521,10 +36521,10 @@
 		"Craft": "Nécromanciers",
 		"Trait": "-",
 		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"ATK": 6,
+		"HP": 6,
+		"EvolvedATK": 8,
+		"EvolvedHP": 8,
 		"Rarity": {"Name": "Légendaire", "ID": 4}
 	},	
 	{	
@@ -36779,7 +36779,7 @@
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 2,
-		"EvolvedATK": 2,
+		"EvolvedATK": 3,
 		"EvolvedHP": 4,
 		"Rarity": {"Name": "Bronze", "ID": 1}
 	},	
@@ -36872,11 +36872,11 @@
 		"Type": "Combattant",
 		"Craft": "Ecclésiastiques",
 		"Trait": "-",
-		"Cost": 3,
+		"Cost": 2,
 		"ATK": 2,
-		"HP": 3,
+		"HP": 2,
 		"EvolvedATK": 4,
-		"EvolvedHP": 5,
+		"EvolvedHP": 4,
 		"Rarity": {"Name": "Or", "ID": 3}
 	},	
 	{	
@@ -37128,10 +37128,10 @@
 		"Type": "Combattant",
 		"Craft": "Dimensionnels",
 		"Trait": "-",
-		"Cost": 2,
-		"ATK": 2,
+		"Cost": 1,
+		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
+		"EvolvedATK": 2,
 		"EvolvedHP": 2,
 		"Rarity": {"Name": "Légendaire", "ID": 4}
 	},	
@@ -37259,8 +37259,8 @@
 		"Cost": 1,
 		"ATK": 1,
 		"HP": 1,
-		"EvolvedATK": 3,
-		"EvolvedHP": 3,
+		"EvolvedATK": 2,
+		"EvolvedHP": 2,
 		"Rarity": {"Name": "Or", "ID": 3}
 	},	
 	{	
@@ -37736,7 +37736,7 @@
 		"Type": "Combattant",
 		"Craft": "Royaux",
 		"Trait": "Soldat",
-		"Cost": 7,
+		"Cost": 6,
 		"ATK": 5,
 		"HP": 9,
 		"EvolvedATK": 7,
@@ -41288,11 +41288,11 @@
 		"Type": "Combattant",
 		"Craft": "Royaux",
 		"Trait": "Commandant",
-		"Cost": 7,
-		"ATK": 5,
-		"HP": 5,
-		"EvolvedATK": 7,
-		"EvolvedHP": 7,
+		"Cost": 6,
+		"ATK": 4,
+		"HP": 4,
+		"EvolvedATK": 6,
+		"EvolvedHP": 6,
 		"Rarity": {"Name": "Or", "ID": 3}
 	},	
 	{	
@@ -61665,13 +61665,13 @@
 	},	
 	{	
 		"ID": 132311030,
-		"Name": "Devineresse minutieuse",
+		"Name": "Inspecteur de Rivayle",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combattant",
 		"Craft": "Esotériques",
-		"Trait": "Machine",
+		"Trait": "-",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 2,
@@ -61681,13 +61681,13 @@
 	},	
 	{	
 		"ID": 132311040,
-		"Name": "Inspecteur de Rivayle",
+		"Name": "Machine au cœur pur",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combattant",
 		"Craft": "Esotériques",
-		"Trait": "-",
+		"Trait": "Mach. & Nat.",
 		"Cost": 2,
 		"ATK": 2,
 		"HP": 2,
@@ -61697,29 +61697,29 @@
 	},	
 	{	
 		"ID": 132321020,
-		"Name": "Machine au cœur pur",
+		"Name": "Sorcière de l'horizon",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combattant",
 		"Craft": "Esotériques",
-		"Trait": "Mach. & Nat.",
+		"Trait": "Nature",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 3,
 		"EvolvedATK": 3,
 		"EvolvedHP": 5,
-		"Rarity": {"Name": "Bronze", "ID": 1}
+		"Rarity": {"Name": "Argent", "ID": 2}
 	},	
 	{	
 		"ID": 132324010,
-		"Name": "Sorcier des données",
+		"Name": "Communication entre âmes",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
-		"Type": "Combattant",
+		"Type": "Sort",
 		"Craft": "Esotériques",
-		"Trait": "Machine",
+		"Trait": "Mach. & Nat.",
 		"Cost": 3,
 		"ATK": 0,
 		"HP": 0,
@@ -61729,38 +61729,6 @@
 	},	
 	{	
 		"ID": 132331010,
-		"Name": "Sorcière de l'horizon",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "Combattant",
-		"Craft": "Esotériques",
-		"Trait": "Nature",
-		"Cost": 3,
-		"ATK": 2,
-		"HP": 2,
-		"EvolvedATK": 4,
-		"EvolvedHP": 4,
-		"Rarity": {"Name": "Argent", "ID": 2}
-	},	
-	{	
-		"ID": 132531010,
-		"Name": "Communication entre âmes",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "Sort",
-		"Craft": "Esotériques",
-		"Trait": "Mach. & Nat.",
-		"Cost": 2,
-		"ATK": 1,
-		"HP": 1,
-		"EvolvedATK": 3,
-		"EvolvedHP": 3,
-		"Rarity": {"Name": "Argent", "ID": 2}
-	},	
-	{	
-		"ID": 132311020,
 		"Name": "Eleanor, fleur de l'amitié",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -61768,12 +61736,44 @@
 		"Type": "Combattant",
 		"Craft": "Esotériques",
 		"Trait": "-",
-		"Cost": 2,
+		"Cost": 3,
 		"ATK": 2,
 		"HP": 2,
 		"EvolvedATK": 4,
 		"EvolvedHP": 4,
 		"Rarity": {"Name": "Or", "ID": 3}
+	},	
+	{	
+		"ID": 132531010,
+		"Name": "Nicola, lumière interdite",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "Combattant",
+		"Craft": "Nécromanciers",
+		"Trait": "Machine",
+		"Cost": 2,
+		"ATK": 1,
+		"HP": 1,
+		"EvolvedATK": 3,
+		"EvolvedHP": 3,
+		"Rarity": {"Name": "Or", "ID": 3}
+	},	
+	{	
+		"ID": 132311020,
+		"Name": "Devineresse minutieuse",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "Combattant",
+		"Craft": "Esotériques",
+		"Trait": "Machine",
+		"Cost": 2,
+		"ATK": 2,
+		"HP": 2,
+		"EvolvedATK": 4,
+		"EvolvedHP": 4,
+		"Rarity": {"Name": "Bronze", "ID": 1}
 	},	
 	{	
 		"ID": 132331020,
@@ -61857,7 +61857,7 @@
 	},	
 	{	
 		"ID": 132341040,
-		"Name": "Vincent, Neutreisateur de menaces",
+		"Name": "Vincent, neutralisateur de menaces",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62017,6 +62017,22 @@
 	},	
 	{	
 		"ID": 132511010,
+		"Name": "Drone aux têtes de mort",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "Combattant",
+		"Craft": "Nécromanciers",
+		"Trait": "Machine",
+		"Cost": 4,
+		"ATK": 3,
+		"HP": 3,
+		"EvolvedATK": 5,
+		"EvolvedHP": 5,
+		"Rarity": {"Name": "Bronze", "ID": 1}
+	},	
+	{	
+		"ID": 132434010,
 		"Name": "Jugulation de la tyrannie",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -62024,15 +62040,15 @@
 		"Type": "Sort",
 		"Craft": "Draconiques",
 		"Trait": "-",
-		"Cost": 4,
-		"ATK": 3,
-		"HP": 3,
-		"EvolvedATK": 5,
-		"EvolvedHP": 5,
+		"Cost": 3,
+		"ATK": 0,
+		"HP": 0,
+		"EvolvedATK": 0,
+		"EvolvedHP": 0,
 		"Rarity": {"Name": "Or", "ID": 3}
 	},	
 	{	
-		"ID": 132434010,
+		"ID": 132441010,
 		"Name": "Dragonite de cristal",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -62040,22 +62056,6 @@
 		"Type": "Combattant",
 		"Craft": "Draconiques",
 		"Trait": "-",
-		"Cost": 3,
-		"ATK": 0,
-		"HP": 0,
-		"EvolvedATK": 0,
-		"EvolvedHP": 0,
-		"Rarity": {"Name": "Légendaire", "ID": 4}
-	},	
-	{	
-		"ID": 132441010,
-		"Name": "Valdain, clair-obscur maudit",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "Combattant",
-		"Craft": "Draconiques",
-		"Trait": "Nature",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
@@ -62065,13 +62065,13 @@
 	},	
 	{	
 		"ID": 132441020,
-		"Name": "Lola, dragonnière fatale",
+		"Name": "Valdain, clair-obscur maudit",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combattant",
 		"Craft": "Draconiques",
-		"Trait": "Machine",
+		"Trait": "Nature",
 		"Cost": 4,
 		"ATK": 4,
 		"HP": 4,
@@ -62081,13 +62081,13 @@
 	},	
 	{	
 		"ID": 132441030,
-		"Name": "Drache, flammes de dragon incisives",
+		"Name": "Lola, dragonnière fatale",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combattant",
 		"Craft": "Draconiques",
-		"Trait": "-",
+		"Trait": "Machine",
 		"Cost": 7,
 		"ATK": 4,
 		"HP": 6,
@@ -62097,19 +62097,19 @@
 	},	
 	{	
 		"ID": 132441040,
-		"Name": "Drone aux têtes de mort",
+		"Name": "Drache, flammes de dragon incisives",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combattant",
-		"Craft": "Nécromanciers",
-		"Trait": "Machine",
+		"Craft": "Draconiques",
+		"Trait": "-",
 		"Cost": 9,
 		"ATK": 6,
 		"HP": 4,
 		"EvolvedATK": 8,
 		"EvolvedHP": 6,
-		"Rarity": {"Name": "Bronze", "ID": 1}
+		"Rarity": {"Name": "Légendaire", "ID": 4}
 	},	
 	{	
 		"ID": 132511020,
@@ -62209,7 +62209,7 @@
 	},	
 	{	
 		"ID": 132531020,
-		"Name": "Nicola, lumière interdite",
+		"Name": "Excavatrice exotique",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
@@ -62225,13 +62225,13 @@
 	},	
 	{	
 		"ID": 132534010,
-		"Name": "Excavatrice exotique",
+		"Name": "Relation synergique",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
-		"Type": "Combattant",
+		"Type": "Sort",
 		"Craft": "Nécromanciers",
-		"Trait": "Machine",
+		"Trait": "-",
 		"Cost": 1,
 		"ATK": 0,
 		"HP": 0,
@@ -62241,22 +62241,6 @@
 	},	
 	{	
 		"ID": 132541010,
-		"Name": "Relation synergique",
-		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
-		
-		
-		"Type": "Sort",
-		"Craft": "Nécromanciers",
-		"Trait": "-",
-		"Cost": 7,
-		"ATK": 7,
-		"HP": 4,
-		"EvolvedATK": 9,
-		"EvolvedHP": 6,
-		"Rarity": {"Name": "Or", "ID": 3}
-	},	
-	{	
-		"ID": 132541020,
 		"Name": "Atem",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
@@ -62264,6 +62248,22 @@
 		"Type": "Combattant",
 		"Craft": "Nécromanciers",
 		"Trait": "-",
+		"Cost": 7,
+		"ATK": 7,
+		"HP": 4,
+		"EvolvedATK": 9,
+		"EvolvedHP": 6,
+		"Rarity": {"Name": "Légendaire", "ID": 4}
+	},	
+	{	
+		"ID": 132541020,
+		"Name": "Ennéa, créatrice indigo",
+		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
+		
+		
+		"Type": "Combattant",
+		"Craft": "Nécromanciers",
+		"Trait": "Machine",
 		"Cost": 2,
 		"ATK": 1,
 		"HP": 1,
@@ -62273,12 +62273,12 @@
 	},	
 	{	
 		"ID": 132641020,
-		"Name": "Ennéa, créatrice indigo",
+		"Name": "Mono, audacieuse pourpre",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combattant",
-		"Craft": "Nécromanciers",
+		"Craft": "Vampiriques",
 		"Trait": "Machine",
 		"Cost": 2,
 		"ATK": 2,
@@ -62497,19 +62497,19 @@
 	},	
 	{	
 		"ID": 132811010,
-		"Name": "Mono, audacieuse pourpre",
+		"Name": "Ancien style de Mécha-soldat",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combattant",
-		"Craft": "Vampiriques",
+		"Craft": "Dimensionnels",
 		"Trait": "Machine",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
 		"EvolvedATK": 5,
 		"EvolvedHP": 5,
-		"Rarity": {"Name": "Légendaire", "ID": 4}
+		"Rarity": {"Name": "Bronze", "ID": 1}
 	},	
 	{	
 		"ID": 132641030,
@@ -62769,19 +62769,19 @@
 	},	
 	{	
 		"ID": 132321010,
-		"Name": "Ancien style de Mécha-soldat",
+		"Name": "Sorcier des données",
 		"FirstPrint": {"Expansion": "Heroes of Shadowverse", "ReleaseDate": "2024-03-26"},
 		
 		
 		"Type": "Combattant",
-		"Craft": "Dimensionnels",
+		"Craft": "Esotériques",
 		"Trait": "Machine",
 		"Cost": 3,
 		"ATK": 3,
 		"HP": 3,
 		"EvolvedATK": 5,
 		"EvolvedHP": 5,
-		"Rarity": {"Name": "Bronze", "ID": 1}
+		"Rarity": {"Name": "Argent", "ID": 2}
 	},	
 	{	
 		"ID": 132811020,
@@ -62991,4 +62991,4 @@
 		"EvolvedHP": 7,
 		"Rarity": {"Name": "Légendaire", "ID": 4}
 	}	
-]
+]		
