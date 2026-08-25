@@ -191,9 +191,6 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
 .dropdown:hover .dropdown-content {
 	display: block;
 }
-/* =========================
-   Game Mode Selector
-   ========================= */
 
 .mode-selector {
     display: flex;
@@ -220,11 +217,6 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
 .mode-btn.active:hover {
     background-color: #0056b3;
 }
-
-
-/* =========================
-   Guess Input / Autocomplete
-   ========================= */
 
 .guess-container {
     position: relative;
@@ -263,11 +255,6 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
     background-color: #e3f2fd;
 }
 
-
-/* =========================
-   Next Card Button
-   ========================= */
-
 #nextCardBtn {
     margin-top: 10px;
     background-color: #28a745;
@@ -276,11 +263,6 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
 #nextCardBtn:hover {
     background-color: #218838;
 }
-
-
-/* =========================
-   Dark Mode
-   ========================= */
 
 body.dark-mode #suggestions {
     background-color: #333;
